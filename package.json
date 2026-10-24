@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Asunder3301/node-template#readme",
   "dependencies": {
+    "bcryptjs": "^3.0.3",
     "connect-pg-simple": "^10.0.0",
     "ejs": "^7.0.2",
     "express": "^5.3.0",
