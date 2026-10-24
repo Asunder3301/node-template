@@ -12,7 +12,7 @@
     "url": "git+https://github.com/Asunder3301/node-template.git"
   },
   "keywords": [],
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/Asunder3301/node-template/issues"
   },
