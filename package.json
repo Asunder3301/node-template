@@ -17,9 +17,11 @@
   },
   "homepage": "https://github.com/Asunder3301/node-template#readme",
   "dependencies": {
+    "connect-pg-simple": "^10.0.0",
     "ejs": "^7.0.2",
     "express": "^5.3.0",
     "express-session": "^1.19.0",
-    "express-validator": "^7.3.2"
+    "express-validator": "^7.3.2",
+    "pg": "^8.23.1"
   }
 }
