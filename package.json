@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Asunder3301/node-template#readme",
   "dependencies": {
+    "ejs": "^7.0.2",
     "express": "^5.3.0",
     "express-session": "^1.19.0",
     "express-validator": "^7.3.2"
